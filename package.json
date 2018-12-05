@@ -1,0 +1,23 @@
+{
+  "name": "powerbot",
+  "version": "1.0.0",
+  "description": "Chatbot for Messenger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Major-Powersports/PowerBot.git"
+  },
+  "author": "Vuk Djukic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Major-Powersports/PowerBot/issues"
+  },
+  "homepage": "https://github.com/Major-Powersports/PowerBot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
